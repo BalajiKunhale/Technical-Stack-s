@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module functional_Interface {
-}
